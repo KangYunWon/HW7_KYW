@@ -1,0 +1,5 @@
+과제 수행 시 유의한 점
+
+1. numpy의 linalg의 다양한 메소드들을 활용하여 문제를 해결함
+2. 가독성을 위해 print후 줄바꿈을 2번씩 수행함
+3. cross product의 경우 linalg가 아닌 numpy의 cross 메소드를 이용해 문제를 해결함
